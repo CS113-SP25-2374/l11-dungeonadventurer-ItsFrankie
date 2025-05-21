@@ -9,5 +9,8 @@ public class Main {
         }
 
         // TODO: Complete this lab!
+        Adventurer adventurer = new Adventurer();
+        adventurer.solveMap(DungeonMap.MAP);
+        
     }
 }
